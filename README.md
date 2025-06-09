@@ -1,4 +1,4 @@
-**Steps to run the program:**
+#Steps to run the program:
 
 Step 1: Run the Program 
 
