@@ -1,4 +1,4 @@
-# Steps to run the program:
+# Steps to start the Keylogger:
 
 Step 1: Run the Program 
 
